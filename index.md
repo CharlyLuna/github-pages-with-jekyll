@@ -1,5 +1,10 @@
 ---
-title: "Welcome to my blog"
+title: This is part of the GitHub pages course.
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm learning how things are done...
+
+
+---
+Looks awesome what you can do with only a .md file
+---
